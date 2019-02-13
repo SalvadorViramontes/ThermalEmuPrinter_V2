@@ -1,6 +1,6 @@
 """
 Code Example:
-The inpuy type for this method to work is a hexadecimal string
+The input type for this method to work is a hexadecimal string
 """
 import EpsonEmu_v2.1
 
