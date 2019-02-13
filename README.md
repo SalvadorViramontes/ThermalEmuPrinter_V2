@@ -8,6 +8,7 @@ There exist two variants, one using Pillow (v2_1) library and the other with the
 Make sure you install the Tesseract OCR and the Pillow or OpenCV libraries in order to run this program.
 Tesseract OCR is wrapped within the pytesseract library for it's use with Python.
 All this libraries can be installed via pip as follows:
+
 	- Pytesseract: pip install pytesseract
 	- OpenCV: pip install opencv-python
 	- Pillow: pip install pillow 
